@@ -1,0 +1,20 @@
+C:\Users\Анастасия\source\repos\БИПиТ5\БИПиТ5\bin\Debug\БИПиТ5.exe.config
+C:\Users\Анастасия\source\repos\БИПиТ5\БИПиТ5\bin\Debug\БИПиТ5.exe
+C:\Users\Анастасия\source\repos\БИПиТ5\БИПиТ5\bin\Debug\БИПиТ5.pdb
+C:\Users\Анастасия\source\repos\БИПиТ5\БИПиТ5\obj\Debug\БИПиТ5.csprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\БИПиТ5\БИПиТ5\obj\Debug\БИПиТ5.Form1.resources
+C:\Users\Анастасия\source\repos\БИПиТ5\БИПиТ5\obj\Debug\БИПиТ5.Properties.Resources.resources
+C:\Users\Анастасия\source\repos\БИПиТ5\БИПиТ5\obj\Debug\БИПиТ5.csproj.GenerateResource.cache
+C:\Users\Анастасия\source\repos\БИПиТ5\БИПиТ5\obj\Debug\БИПиТ5.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\БИПиТ5\БИПиТ5\obj\Debug\БИПиТ5.exe
+C:\Users\Анастасия\source\repos\БИПиТ5\БИПиТ5\obj\Debug\БИПиТ5.pdb
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\БИПиТ5\БИПиТ5\bin\Debug\БИПиТ5.exe.config
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\БИПиТ5\БИПиТ5\bin\Debug\БИПиТ5.exe
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\БИПиТ5\БИПиТ5\bin\Debug\БИПиТ5.pdb
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\БИПиТ5\БИПиТ5\obj\Debug\БИПиТ5.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\БИПиТ5\БИПиТ5\obj\Debug\БИПиТ5.Form1.resources
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\БИПиТ5\БИПиТ5\obj\Debug\БИПиТ5.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\БИПиТ5\БИПиТ5\obj\Debug\БИПиТ5.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\БИПиТ5\БИПиТ5\obj\Debug\БИПиТ5.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\БИПиТ5\БИПиТ5\obj\Debug\БИПиТ5.exe
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\БИПиТ5\БИПиТ5\obj\Debug\БИПиТ5.pdb
