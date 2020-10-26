@@ -1,0 +1,22 @@
+C:\Users\Анастасия\source\repos\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\Users\Анастасия\source\repos\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Анастасия\source\repos\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Анастасия\source\repos\ClassLibrary\ClassLibrary\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Анастасия\source\repos\ClassLibrary\ClassLibrary\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Анастасия\source\repos\ClassLibrary\ClassLibrary\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Анастасия\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\Анастасия\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Анастасия\source\repos\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll.config
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ClassLibrary\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ClassLibrary\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ClassLibrary\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CopyComplete
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb

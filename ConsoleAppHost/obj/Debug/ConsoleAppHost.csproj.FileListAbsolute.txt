@@ -1,0 +1,22 @@
+C:\Users\Анастасия\source\repos\ClassLibrary\ConsoleAppHost\bin\Debug\ConsoleAppHost.exe.config
+C:\Users\Анастасия\source\repos\ClassLibrary\ConsoleAppHost\bin\Debug\ConsoleAppHost.exe
+C:\Users\Анастасия\source\repos\ClassLibrary\ConsoleAppHost\bin\Debug\ConsoleAppHost.pdb
+C:\Users\Анастасия\source\repos\ClassLibrary\ConsoleAppHost\bin\Debug\ClassLibrary.dll
+C:\Users\Анастасия\source\repos\ClassLibrary\ConsoleAppHost\bin\Debug\ClassLibrary.pdb
+C:\Users\Анастасия\source\repos\ClassLibrary\ConsoleAppHost\bin\Debug\ClassLibrary.dll.config
+C:\Users\Анастасия\source\repos\ClassLibrary\ConsoleAppHost\obj\Debug\ConsoleAppHost.csprojAssemblyReference.cache
+C:\Users\Анастасия\source\repos\ClassLibrary\ConsoleAppHost\obj\Debug\ConsoleAppHost.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\ClassLibrary\ConsoleAppHost\obj\Debug\ConsoleAppHost.csproj.CopyComplete
+C:\Users\Анастасия\source\repos\ClassLibrary\ConsoleAppHost\obj\Debug\ConsoleAppHost.exe
+C:\Users\Анастасия\source\repos\ClassLibrary\ConsoleAppHost\obj\Debug\ConsoleAppHost.pdb
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ConsoleAppHost\bin\Debug\ConsoleAppHost.exe.config
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ConsoleAppHost\bin\Debug\ConsoleAppHost.exe
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ConsoleAppHost\bin\Debug\ConsoleAppHost.pdb
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ConsoleAppHost\bin\Debug\ClassLibrary.dll
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ConsoleAppHost\bin\Debug\ClassLibrary.pdb
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ConsoleAppHost\bin\Debug\ClassLibrary.dll.config
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ConsoleAppHost\obj\Debug\ConsoleAppHost.csprojAssemblyReference.cache
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ConsoleAppHost\obj\Debug\ConsoleAppHost.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ConsoleAppHost\obj\Debug\ConsoleAppHost.csproj.CopyComplete
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ConsoleAppHost\obj\Debug\ConsoleAppHost.exe
+C:\Users\Анастасия\Desktop\ИСиТ 3 курс\БИПиТ\ClassLibrary\ConsoleAppHost\obj\Debug\ConsoleAppHost.pdb
